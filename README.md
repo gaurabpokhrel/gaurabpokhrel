@@ -4,7 +4,7 @@ I'm Gaurab Pokhrel, a  Bachelor of Computer Science student exploring programm
 
 🚀 About Me
 
-🎓 Studying **CS **
+🎓 Studying **CS**
 
 💻 Learning C, Python, JavaScript and so on.
 
